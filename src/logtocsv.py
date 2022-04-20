@@ -1,5 +1,4 @@
-#log_to_csv.py
-
+#!/usr/bin/env python
 import sys
 import pandas as pd
 import argparse
